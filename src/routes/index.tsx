@@ -250,7 +250,7 @@ function Portfolio() {
         <div className="grid md:grid-cols-5 gap-8">
           <div className="md:col-span-3 glass rounded-3xl p-8 leading-relaxed text-muted-foreground">
             I am an AI & Data Science (ADS) student currently in my second year at{" "}
-            <span className="text-foreground font-medium">Mender College of Engineering</span>. Hailing
+            <span className="text-foreground font-medium">Mentor Engineering College</span>. Hailing
             from <span className="text-foreground font-medium">Kuttanad, Alappuzha</span>, I have a
             strong passion for bridging the gap between complex algorithms and intuitive user
             experiences. Whether I am writing clean Python code, training a computer vision model, or
@@ -264,7 +264,7 @@ function Portfolio() {
             <div className="space-y-5">
               <div>
                 <h3 className="font-semibold">B.Tech — AI & Data Science</h3>
-                <p className="text-sm text-muted-foreground">Mender College of Engineering</p>
+                <p className="text-sm text-muted-foreground">Mentor Engineering College</p>
                 <p className="text-xs text-muted-foreground mt-1">2nd Year · Ongoing</p>
               </div>
               <div className="h-px bg-border" />
