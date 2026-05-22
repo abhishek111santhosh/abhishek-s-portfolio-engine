@@ -38,7 +38,10 @@ const skillGroups = [
     items: [
       { label: "Python", icon: Code2 },
       { label: "C", icon: Code2 },
-      { label: "Full-Stack Development", icon: Database },
+      { label: "HTML", icon: Code2 },
+      { label: "CSS", icon: Code2 },
+      { label: "JavaScript", icon: Code2 },
+      { label: "React", icon: Code2 },
     ],
   },
   {
